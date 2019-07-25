@@ -43,6 +43,6 @@
   ],
   "dependencies": {
     "cache-breaker": "0.0.4",
-    "lodash.clonedeep": "^3.0.2"
+    "lodash.clonedeep": "^4.5.0"
   }
 }
